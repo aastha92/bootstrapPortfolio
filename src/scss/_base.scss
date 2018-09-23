@@ -1,0 +1,45 @@
+// Your own styles
+body {
+    background-color: black;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #0078a5;
+}
+
+/* hero image */
+
+.jumbotron {
+    background-image: url('img/homePage.jpg');
+    background-size: cover;
+    min-height: 350px;
+    border-radius: 0px;
+}
+
+.jumbotron-heading {
+    color: white;
+    padding-top: 80px;
+}
+
+.lead {
+    color: white;
+}
+
+
+/* skills section */
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+/* portfolio */
+
+.card {
+    background-color: #AAAAAA;
+}
+
